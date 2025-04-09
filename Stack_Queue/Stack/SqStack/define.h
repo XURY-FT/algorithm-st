@@ -8,7 +8,7 @@
 #define OVERFLOW -2
 typedef int Status;
 
-#define SQLMAXSIZE 100
+#define SQSMAXSIZE 100
 typedef int SElemType;
 
 typedef struct SqStack

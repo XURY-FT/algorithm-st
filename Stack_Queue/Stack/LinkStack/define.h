@@ -8,7 +8,7 @@
 #define OVERFLOW -2
 typedef int Status;
 
-#define SQLMAXSIZE 100
+#define LINKSMAXSIZE 100
 
 typedef int SElemType;
 
